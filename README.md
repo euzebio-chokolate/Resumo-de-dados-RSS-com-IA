@@ -69,7 +69,7 @@ python -m pip install feedparser requests beautifulsoup4 reportlab
 - Copie o link RSS e cole no código
 ```python
 #Cole o link dentro dessa variável
-RSS_URL = "https://www.google.com.br/alerts/feeds/xxxxxxxx/xxxxxxxxxx"
+RSS_URL = "https://www.google.com.br/alerts/feeds/06254778014857092180/11266661188504430773"
 ```
 
 # Como rodar o projeto:
